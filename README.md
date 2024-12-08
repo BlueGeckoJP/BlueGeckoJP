@@ -5,4 +5,4 @@ I am a student and do programming as a hobby.🗼🇯🇵
 
 いろんな言語試してます やっぱRust!!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueGeckoJP&langs_count=8&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueGeckoJP&langs_count=12&layout=donut)

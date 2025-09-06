@@ -1,10 +1,14 @@
-I am a student and do programming as a hobby.🗼🇯🇵
-♥ Rust ♥
+# やほ!! I'm BlueGecko Hi! / Bonjour!
 
-Rust君が最推しです 最近はWeb(TypeScript)なども結構やってます
+A hobby programmer from Japan 🇯🇵🗼🗾
 
-プログラミングをするために生まれてきました 今のところは趣味ですが 頑張ります
+A rustacean, Recently using Rust, TypeScript
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BlueGeckoJP)](https://github.com/ryo-ma/github-profile-trophy)
+# Skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueGeckoJP&langs_count=8&layout=donut)
+[![My Skills](https://skillicons.dev/icons?i=actix,arch,css,debian,github,go,gradle,html,idea,java,js,kotlin,linux,md,mint,mysql,neovim,nodejs,npm,pnpm,py,qt,raspberrypi,react,regex,rust,solidjs,tailwindcss,tauri,ts,ubuntu,vite,vscode,vue,wasm,windows)](https://skillicons.dev)
+
+# Activities
+
+<img src="https://github-readme-stats.vercel.app/api?username=BlueGeckoJP&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueGeckoJP&langs_count=8&layout=compact" />

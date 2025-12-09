@@ -12,7 +12,7 @@ A rustacean, Recently using Rust, TypeScript
 <table>
   <tr>
     <td><img style="width: 400px" src="https://github-profile-trophy-green.vercel.app/?username=BlueGeckoJP&theme=onedark&column=3&no-frame=true" /></td>
-    <td><img style="width: 400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueGeckoJP&langs_count=12&layout=donut-vertical&theme=dark" /></td>
+    <td><img style="width: 400px" src="https://github-readme-stats-five-ashy-59.vercel.app/api/top-langs/?username=BlueGeckoJP&langs_count=12&layout=donut-vertical&theme=dark" /></td>
   </tr>
 </table>
 <img style="width: 850px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlueGeckoJP&theme=nord_dark" />

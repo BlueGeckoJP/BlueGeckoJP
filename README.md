@@ -11,7 +11,7 @@ A rustacean, Recently using Rust, TypeScript
 # Activities
 <table>
   <tr>
-    <td><img style="width: 400px" src="https://github-profile-trophy.vercel.app/?username=BlueGeckoJP&theme=onedark&column=3" /></td>
+    <td><img style="width: 400px" src="https://github-profile-trophy-green.vercel.app/?username=BlueGeckoJP&theme=onedark&column=3&no-frame=true" /></td>
     <td><img style="width: 400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueGeckoJP&langs_count=12&layout=donut-vertical&theme=dark" /></td>
   </tr>
 </table>

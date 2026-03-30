@@ -11,7 +11,7 @@ A rustacean, Recently using Rust, TypeScript
 # Achievements & Language Stats
 <div align="center" style="text-align: center">
   <img src="https://github-profile-trophy-green.vercel.app/?username=BlueGeckoJP&theme=onedark&column=3&no-frame=true" alt="GitHub Trophies" width="400" />
-  <img src="https://langchart-readme-stats.deno.dev/?username=BlueGeckoJP&width=400" alt="Language Chart" width="400" />
+  <img src="https://langchart-readme-stats.bluegecko.deno.net/?username=BlueGeckoJP&width=400" alt="Language Chart" width="400" />
 </div>
 
 # Top Languages

@@ -6,7 +6,7 @@ A rustacean, Recently using Rust, TypeScript
 
 ---
 
-![Metrics](/github-metrics.svg)
+<p align="center"><img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics"></p>
 
 ---
 
